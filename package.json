@@ -1,0 +1,17 @@
+{
+    "main": "medida\\images\\thermometer-inter.js",
+    "name": "termometro.io",
+    "version": "",
+    "description": "",
+    "scripts": {
+        "start": "sockets\\server.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "socket.io":"^3.0",
+        "express":"^4.17.1"
+
+    }
+}
